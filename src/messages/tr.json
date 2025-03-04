@@ -1,0 +1,9 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "projects": "Projeler",
+    "blog": "Blog",
+    "resume": "Özgeçmiş"
+  }
+}
